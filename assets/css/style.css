@@ -54,3 +54,9 @@
   color: #2688e7;
   background-color: white;
 }
+
+.section {
+  height: auto;
+  width: auto;
+  background-image: url()
+}
